@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Simon W
 - 👀 I’m interested in gaming, skiing, snowboarding, coding, camping and many other activities
-- 🌱 I’m currently learning JavaScript
-- 📫 Reach out at fatcat47101@gmail.com
+- 🌱 I’m currently learning SQL
+- 📫 Reach out at Simon@Shadik.com
