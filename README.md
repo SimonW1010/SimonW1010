@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Simon W
 - 👀 I’m interested in gaming, skiing, snowboarding, coding, camping and many other activities
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently taking Harvards CS50
 - 📫 Reach out at Simonweisfish@gmail.com
